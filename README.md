@@ -1,2 +1,4 @@
 # GoMoKu black go frist
-# GoMoKu
+
+# usage
+python3 GoMoKu.py
